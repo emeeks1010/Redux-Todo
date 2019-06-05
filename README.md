@@ -14,6 +14,8 @@ Topics:
 
 ## Project Description
 
+## Project Description 2
+
 ### Initialize Project
 
 * Run `create-react-app todo` to create your starter application.
